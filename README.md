@@ -1,6 +1,8 @@
 # My Portfolio
 This portfolio showcases my collection of projects and work in various domains. You can explore the code, documentation, and learn more about my skills and experiences.
 
+![home-page-protfolio](https://github.com/yarin181/Yarin-portfolio/assets/90701490/a9365a76-eca1-4680-b8a6-6fa573bd1e01)
+
 ## Credits
 
 This portfolio was inspired by [Soumyajit4419](https://github.com/soumyajit4419/Portfolio) Portfolio. I would like to extend my gratitude for providing the template that served as the foundation for this portfolio.
