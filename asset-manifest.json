@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2fa7350f.css",
+    "main.js": "/static/js/main.9edac1a0.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/wink- chat screen .png": "/static/media/wink- chat screen .7b7cac467eec9a30439e.png",
+    "static/media/yarin-photo.jpg": "/static/media/yarin-photo.eb7829e10df3285c88e3.jpg",
+    "static/media/Yarin Sason CV .pdf": "/static/media/Yarin Sason CV .d1cece0df19ff510f7b6.pdf",
+    "static/media/c dict.jpg": "/static/media/c dict.5a813f8d7c1d982bfa74.jpg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/knn- example.png": "/static/media/knn- example.17c3f5c873bff9645226.png",
+    "static/media/note app.jpg": "/static/media/note app.5d57cdaaeba0a0551787.jpg",
+    "static/media/assembly.png": "/static/media/assembly.6b9cc597a0d66d809b02.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.b0d07313af09a64e94c1.png",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.2fa7350f.css.map": "/static/css/main.2fa7350f.css.map",
+    "main.9edac1a0.js.map": "/static/js/main.9edac1a0.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fa7350f.css",
+    "static/js/main.9edac1a0.js"
+  ]
+}
