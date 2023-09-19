@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import assembly from "../../Assets/Projects/assembly.png";
-import dict from "../../Assets/Projects/c dict.jpg";
+import news from "../../Assets/Projects/OS_Ass3_diagram.png";
 import arknoid from "../../Assets/Projects/arknoid - big final.png";
 import wink from "../../Assets/Projects/wink- chat screen .png";
 import noteApp from "../../Assets/Projects/note app.jpg";
@@ -80,12 +80,13 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={dict}
+              imgPath={news}
               isBlog={false}
-              title="C Dictionary"
-              description="C-based dictionary project prioritizes efficient memory management through dynamic allocation
-              and resource deallocation while functioning as a basic dictionary."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              title="News Broadcasting Simulation"
+              description="This C-based project simulates news broadcasting,
+               offering hands-on experience in concurrent programming and synchronization,
+                assessing synchronization's performance impact under varying workloads."
+              ghLink="https://github.com/yarin181/OP_ass3"
             />
           </Col>
         </Row>
