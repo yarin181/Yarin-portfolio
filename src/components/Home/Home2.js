@@ -4,8 +4,6 @@ import myImg from "../../Assets/yarin-photo.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
@@ -19,14 +17,15 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              Third-Year Computer Science Student at<span className="purple"> Bar Ilan University</span>
+              As a third-year Computer Science student at<span className="purple"> Bar Ilan University</span>, I am deeply immersed in the world of technology.
               <br /><br />
-              Passionate about <span className="purple">Software Development</span>, Web Development, and Problem Solving
+              My passion lies in <span className="purple">Software Development</span>, with hands-on experience in both <span className="purple">Low-Level Development</span> and the dynamic realm of <span className="purple">Web Development</span>.
               <br /><br />
-              Enthusiastic about Learning and Applying the Latest <span className="purple">Technologies</span>
+              Intrigued by the complexities of <span className="purple">Machine Learning</span>, I am actively exploring this fascinating field to broaden my horizons.
               <br /><br />
-              Driven to Create Innovative Solutions and Contribute to the Tech <span className="purple">Community</span>
+              Through my journey, I am driven by a genuine curiosity for the latest <span className="purple">Technologies</span>, a commitment to creating innovative solutions, and a profound care for fostering advancements in the tech <span className="purple">Community</span>.
             </p>
+
 
           </Col>
           <Col md={4} className="myAvtar">
@@ -53,16 +52,6 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              {/*<li className="social-icons">*/}
-              {/*  <a*/}
-              {/*    href="https://twitter.com/Soumyajit4419"*/}
-              {/*    target="_blank"*/}
-              {/*    rel="noreferrer"*/}
-              {/*    className="icon-colour  home-social-icons"*/}
-              {/*  >*/}
-              {/*    <AiOutlineTwitter />*/}
-              {/*  </a>*/}
-              {/*</li>*/}
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/yarin-sason/"
@@ -73,16 +62,6 @@ function Home2() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              {/*<li className="social-icons">*/}
-              {/*  <a*/}
-              {/*    href="https://www.instagram.com/soumyajit4419"*/}
-              {/*    target="_blank"*/}
-              {/*    rel="noreferrer"*/}
-              {/*    className="icon-colour home-social-icons"*/}
-              {/*  >*/}
-              {/*    <AiFillInstagram />*/}
-              {/*  </a>*/}
-              {/*</li>*/}
             </ul>
           </Col>
         </Row>

@@ -28,7 +28,7 @@ function Projects() {
               title="WINK"
               description="WINK is a versatile cross-platform chat application designed for both web and Android users.
                It offers a comprehensive solution for real-time messaging, user registration, and authentication."
-              ghLink="https://github.com/"
+              ghLink="https://github.com/yarin181/WINK_android"
             />
           </Col>
 

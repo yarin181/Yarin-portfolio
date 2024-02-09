@@ -78,7 +78,7 @@ button:focus {
 .sticky {
   background-color: #1b1a2ea9 !important;
   transition: all 0.3s ease-out 0s !important;
-  box-shadow: 0px 10px 10px 0px rgba(9, 5, 29, 0.171) !important;
+  box-shadow: 0 10px 10px 0 rgba(9, 5, 29, 0.171) !important;
   backdrop-filter: blur(15px) !important;
 }
 
@@ -114,7 +114,6 @@ button:focus {
 
 .navbar-toggler span:nth-child(1),
 .navbar-toggler span:nth-child(3) {
-  transition: transform 0.35s ease-in-out !important;
   transition: transform 0.35s ease-in-out !important;
 }
 
@@ -260,7 +259,6 @@ button:focus {
   background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
-  padding-bottom: 30px !important;
   padding-top: 30px !important;
 }
 
@@ -320,12 +318,11 @@ button:focus {
 .home-about-section {
   position: relative;
   padding-bottom: 70px !important;
-  padding-top: 70px !important;
 }
 
 .home-about-description {
   color: white !important;
-  padding-top: 100px !important;
+  padding-top:10px !important;
   padding-bottom: 20px !important;
   text-align: center;
 }
@@ -511,9 +508,9 @@ button:focus {
 }
 
 .blog-img {
-  padding: 0px !important;
+  padding: 0 !important;
   opacity: 0.8 !important;
-  border-radius: 0px !important;
+  border-radius: 0 !important;
 }
 
 .btn-primary {
