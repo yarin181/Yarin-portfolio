@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/Yarin-portfolio/static/css/main.9e8c5dbb.css",
-    "main.js": "/Yarin-portfolio/static/js/main.097aa145.js",
+    "main.css": "/Yarin-portfolio/static/css/main.431257b3.css",
+    "main.js": "/Yarin-portfolio/static/js/main.cc6af451.js",
     "static/js/415.4d6acbeb.chunk.js": "/Yarin-portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Yarin-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/wink- chat screen .png": "/Yarin-portfolio/static/media/wink- chat screen .7b7cac467eec9a30439e.png",
     "static/media/yarin-photo.jpg": "/Yarin-portfolio/static/media/yarin-photo.eb7829e10df3285c88e3.jpg",
-    "static/media/Yarin Sason CV - update templete.pdf": "/Yarin-portfolio/static/media/Yarin Sason CV - update templete.4ab036f160a4ddc1ea99.pdf",
     "static/media/OS_Ass3_diagram.png": "/Yarin-portfolio/static/media/OS_Ass3_diagram.5acacad4cb398fb86b2b.png",
     "static/media/home-main.svg": "/Yarin-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/Yarin-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/knn- example.png": "/Yarin-portfolio/static/media/knn- example.17c3f5c873bff9645226.png",
+    "static/media/Yarin_Sason CV.pdf": "/Yarin-portfolio/static/media/Yarin_Sason CV.44c0740717096f426da2.pdf",
     "static/media/note app.jpg": "/Yarin-portfolio/static/media/note app.5d57cdaaeba0a0551787.jpg",
     "static/media/assembly.png": "/Yarin-portfolio/static/media/assembly.6b9cc597a0d66d809b02.png",
     "static/media/home-bg.jpg": "/Yarin-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/logo.png": "/Yarin-portfolio/static/media/logo.b0d07313af09a64e94c1.png",
     "static/media/pre.svg": "/Yarin-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Yarin-portfolio/index.html",
-    "main.9e8c5dbb.css.map": "/Yarin-portfolio/static/css/main.9e8c5dbb.css.map",
-    "main.097aa145.js.map": "/Yarin-portfolio/static/js/main.097aa145.js.map",
+    "main.431257b3.css.map": "/Yarin-portfolio/static/css/main.431257b3.css.map",
+    "main.cc6af451.js.map": "/Yarin-portfolio/static/js/main.cc6af451.js.map",
     "415.4d6acbeb.chunk.js.map": "/Yarin-portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Yarin-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e8c5dbb.css",
-    "static/js/main.097aa145.js"
+    "static/css/main.431257b3.css",
+    "static/js/main.cc6af451.js"
   ]
 }
